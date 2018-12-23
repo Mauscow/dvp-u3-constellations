@@ -30,7 +30,7 @@
 # In[39]:
 
 
-get_ipython().run_line_magic('matplotlib', 'notebook')
+%matplotlib notebook
 from matplotlib import pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
 
